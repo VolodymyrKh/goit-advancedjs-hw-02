@@ -1,1 +1,1 @@
-## goit-advancedjs-hw-02
+## hw-02
